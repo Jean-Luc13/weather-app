@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-Luc13/weather-app.git"
+  },
+  "keywords": [],
+  "author": "jean-luc joubert",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
